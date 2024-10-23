@@ -48,6 +48,13 @@ npm start<br/>
 <br/>
 
 **Screenshot of Output:**
+![image](https://github.com/user-attachments/assets/850644da-b6bc-4048-81c7-c7329551622a)
+<br/>
+![image](https://github.com/user-attachments/assets/67247ac7-4852-491b-ab58-a55fa71b0cc6)
+<br/>
+![image](https://github.com/user-attachments/assets/ecee50fe-3616-452d-bafc-846ad708ed4c)
+
+
 
 
 
